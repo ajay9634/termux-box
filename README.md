@@ -12,7 +12,7 @@ English
 
 `Termux-box` is not Box64Droid neither Box4Droid.
 
-## Installation
+## Installation from download folder
 After installation the start command in termux is `termux-box`
 
 Download and install
@@ -22,7 +22,7 @@ Download and install
 Open termux and paste command
 
 ```bash
-curl -s -o x https://raw.githubusercontent.com/olegos2/termux-box/main/install && chmod +x x && ./x
+curl -s -o x https://raw.githubusercontent.com/ajay9634/termux-box/main/install && chmod +x x && ./x
 ```
 
 ### Additional components
