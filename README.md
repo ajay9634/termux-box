@@ -13,6 +13,8 @@ English
 `Termux-box` is not Box64Droid neither Box4Droid.
 
 ## Installation from download folder
+download rootfs.tar.xz and patch.tar.xz from olegos2 GitHub then copy to download folder.then run install cmd.
+
 After installation the start command in termux is `termux-box`
 
 Download and install
